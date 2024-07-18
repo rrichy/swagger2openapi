@@ -1,0 +1,27 @@
+{
+  "name": "swagger2openapi",
+  "version": "1.0.0",
+  "description": "Generates openapi.yml file for NestJS apps that uses swagger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrichy/swagger2openapi.git"
+  },
+  "keywords": [
+    "nestjs",
+    "swagger",
+    "openapi"
+  ],
+  "author": "rrichy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrichy/swagger2openapi/issues"
+  },
+  "homepage": "https://github.com/rrichy/swagger2openapi#readme",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
